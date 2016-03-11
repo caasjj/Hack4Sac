@@ -1,0 +1,12 @@
+[
+  {
+    "name":"Flushots-R-Us",
+    "address":"1 main street",
+    "type": ["flu", "zeka"]
+  },
+  {
+    "name":"Speedshots-To-U",
+    "address":"200 1st street",
+    "type": ["flu", "measles"]
+  }
+]
